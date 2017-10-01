@@ -1,4 +1,4 @@
 source 'https://rubygems.org'
 
-# Specify your gem's dependencies in try_rubygem.gemspec
+# Specify your gem's dependencies in caesar_cipher.gemspec
 gemspec
